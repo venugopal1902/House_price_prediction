@@ -40,9 +40,7 @@ The accuracy of the house price prediction model is assessed based on standard m
 
 
 
-License
-This project is licensed under the MIT License.
 
 Contact Information
-For any questions, feedback, or issues, feel free to reach out to [Your Name] at [your@email.com].
+For any questions, feedback, or issues, feel free to reach out to [Gubbala Venu Gopal] at [venugopal1902@email.com].
 
